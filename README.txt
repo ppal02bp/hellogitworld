@@ -16,3 +16,4 @@ This demo also includes an image with changes on a branch for examination of ima
 
 Commit 1
 Commit 2
+Commit 3
